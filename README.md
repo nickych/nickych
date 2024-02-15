@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicky Chibilika
 =======================================================================================================================================
 
-Front-End Web Developer
+Full-Stack Web Developer
 -----------------------
 
-Am a skilled Front-End Web Developer with 3 years of work experience in designing, developing and maintaining Front-end web application
+Am a skilled Full-Stack Web Developer with 3 years of work experience in designing, developing and maintaining web application
 
 * 🌍  I'm based in Zambia
 * 🖥️  See my portfolio at [Mr Chibz](http://chibzs.netlify.app/)
