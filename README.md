@@ -10,7 +10,7 @@ Am a skilled Full-Stack Web Developer with 3 years of work experience in designi
 * 🖥️  See my portfolio at [Mr Chibz](http://chibzs.netlify.app/)
 * ✉️  You can contact me at [chibznicky@gmail.com](mailto:chibznicky@gmail.com)
 * 🧠  I'm learning REACT and MONGODB
-* 🤝  I'm open to collaborating on Front-End Projects
+* 🤝  I'm open to collaborating on web applications Projects
 * ⚡  Coffee Lover
 
 ### Skills
