@@ -7,7 +7,7 @@ Full-Stack Web Developer
 Am a skilled Full-Stack Web Developer with 3 years of work experience in designing, developing and maintaining web application
 
 * 🌍  I'm based in Zambia
-* 🖥️  See my portfolio at [Mr Chibz](http://chibzs.netlify.app/)
+* 🖥️  See my portfolio at [Mr Chibz](http://chibz.netlify.app/)
 * ✉️  You can contact me at [chibznicky@gmail.com](mailto:chibznicky@gmail.com)
 * 🧠  I'm learning PYTHON and MYSQL
 * 🤝  I'm open to collaborating on web applications Projects
