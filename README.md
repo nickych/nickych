@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicky Chibilika
 =======================================================================================================================================
 
-Full-Stack Web Developer
+Full-Stack Web Developer || Network Engineer
 -----------------------
 
 Am a skilled Full-Stack Web Developer with 3 years of work experience in designing, developing and maintaining web application
