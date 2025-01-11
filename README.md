@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer || Network Engineer
 -----------------------
 
-Am a skilled Full-Stack Web Developer with 3 years of work experience in designing, developing and maintaining web application
+Am a skilled Full-Stack Web Developer And a Network Engineer
 
 * 🌍  I'm based in Zambia
 * 🖥️  See my portfolio at [Mr Chibz](http://chibz.netlify.app/)
