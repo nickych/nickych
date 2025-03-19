@@ -10,7 +10,7 @@ Am a skilled Full-Stack Web Developer And a Network Engineer
 * 🖥️  See my portfolio at [Mr Chibz](http://chibz.netlify.app/)
 * ✉️  You can contact me at [chibznicky@gmail.com](mailto:chibznicky@gmail.com)
 * 🧠  I'm learning FastHTML and Electron
-* 🤝  I'm open to collaborations
+* 🤝  I'm open for collaborations
 * ⚡  Coffee Lover
 
 ### Skills
