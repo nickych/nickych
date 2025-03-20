@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber-Security Analyst || Network Engineer ||  Linux Enthusiast || Python Dev
 -----------------------
 
-Am a skilled Full-Stack Web Developer And a Network Engineer
+I am a highly skilled Cybersecurity Analyst and Network Engineer with expertise in securing and optimizing network infrastructures.
 
 * 🌍  I'm based in Zambia
 * 🖥️  See my portfolio at [Mr Chibz](http://chibz.netlify.app/)
