@@ -9,7 +9,7 @@ I am a highly skilled Cybersecurity Analyst and Network Engineer with expertise 
 * 🌍  I'm based in Zambia
 * 🖥️  See my portfolio at [Mr Chibz](http://chibz.netlify.app/)
 * ✉️  You can contact me at [chibznicky@gmail.com](mailto:chibznicky@gmail.com)
-* 🧠  I'm learning FastHTML and Electron
+* 🧠  I'm learning Bash
 * 🤝  I'm open for collaborations
 * ⚡  Coffee Lover
 
