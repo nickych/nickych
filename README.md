@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Names Are: Nicky Chibilika
 =======================================================================================================================================
 
-Cyber-Security Analyst || System Admin ||  Linux Enthusiast || Python Dev
+Cyber-Security Analyst || System Admin || Full Stack Dev || Linux Enthusiast || Python Dev
 -----------------------
 
 I am a highly skilled Cybersecurity Analyst and System Admin with expertise in securing and optimizing network infrastructures.
