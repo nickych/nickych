@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 System Admin || Full Stack Dev || Linux Enthusiast || Python Dev
 -----------------------
 
-I am a highly skilled Cybersecurity Analyst and System Admin with expertise in securing and optimizing network infrastructures.
+I am a highly skilled System Admin and Full Stack Dev with expertise in securing and optimizing network infrastructures.
 
 * 🌍  I'm based in Zambia
 * 🖥️  See my portfolio at [Mr Chibz](http://chibz.netlify.app/)
